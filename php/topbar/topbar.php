@@ -1,9 +1,10 @@
 <!-- php include head for debugging -->
-<div id="topbar" class="topbar">
+<div id="topbar" class="topbar container-fluid">
   <nav class="navbar ">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#"><img alt="Brand" src="https://unroole-production-v3.s3.amazonaws.com/system/asset_images/1659/xxs/bootstrap-solid.png"></a>
-
+    <div class="row">
+        <a class="navbar-brand" href="#">
+          <span class="glyphicon glyphicon-road"></span> J3 Delivery
+        </a>
         <ul class="nav navbar-nav navbar-right">
           <form class="navbar-form " role="navigation">
             <div class="form-group">

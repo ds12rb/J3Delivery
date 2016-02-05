@@ -4,7 +4,7 @@
 
 <section id="viewgroups-section">
 
-<div id="viewgroups" class="container well well-lg">
+<div id="viewgroups" class="container-fluid ">
   <div class="row ">
     <div class="panel panel-default">
       <!-- Default panel contents -->
@@ -59,12 +59,26 @@
 
 
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" id="gmaproute">View Route</button>
-        <button type="button" class="btn btn-secondary">Print Order</button>
-        <button type="button" class="btn btn-secondary">Print Directions</button>
-        <button type="button" class="btn btn-primary">Select This Group</button>
-        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+      <div class="modal-footer btn-group btn-group-lg ">
+        <div class="btn-group btn-group-lg">
+          <button type="button" class="btn btn-secondary" id="gmaproute">View Route</button>
+        </div>
+        <div class="btn-group btn-group-lg">
+          <button type="button" class="btn btn-secondary">    <span class="glyphicon glyphicon-print"></span>
+          Print Order</button>
+        </div>
+        <div class="btn-group btn-group-lg">
+          <button type="button" class="btn btn-secondary">
+   <span class="glyphicon glyphicon-print"></span>
+
+            Print Directions</button>
+        </div>
+        <div class="btn-group btn-group-lg">
+          <button type="button" class="btn btn-primary">Select This Group</button>
+        </div>
+        <div class="btn-group btn-group-lg">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        </div>
       </div>
     </div>
   </div>

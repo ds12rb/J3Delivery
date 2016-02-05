@@ -1,7 +1,7 @@
 <footer id="footer">
   <div class="row">
    <div class="f-content">
-  <div class="f-copy">Copyright &copy; <?php echo date("Y"); ?> <a href="http://www.aidelivery.com">AIdelivery.com</a></div>
+  <div class="f-copy">Copyright &copy; 2016 - <?php echo date("Y"); ?> <a href="http://www.aidelivery.com">AIdelivery.com</a></div>
   <ul class="f-subnav">
     <li><a href="./about.php">About us</a></li>
     <li><a href="./privacy.php">Privacy Policy</a></li>

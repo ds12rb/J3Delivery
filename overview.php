@@ -8,17 +8,17 @@
 
       <div class="row overview-content">
 
-      <div class="col-sm-6"  ">
-            <img src="images/placeholder.jpg" alt="..." class="img-rounded center-block" id="overview-mainimg">
+      <div class="col-md-6"  ">
+            <img src="images/placeholder.jpg" alt="..." class="img-rounded center-block img-responsive" id="overview-mainimg">
       </div>
 
-      <div class="col-sm-6"   ">
+      <div class="col-md-6"   ">
         <div class="list-group">
 <li class="list-group-item">
             <div class="media">
               <div class="media-left">
                 <a href="#">
-                  <img class="media-object" src="images/placeholderuser.png" alt="...">
+                  <img class="media-object " src="images/placeholderuser.png" alt="...">
                 </a>
               </div>
               <div class="media-body">
@@ -50,7 +50,7 @@
 
 <li class="list-group-item">
             <div class="media">
-              <div class="media-left">
+              <div class="media-left ">
                 <a href="#">
                   <img class="media-object" src="images/placeholderuser.png" alt="...">
                 </a>
@@ -70,18 +70,18 @@
             </div>
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-md-6">
     <div class="card card-block">
-      <h3 class="card-title">Create an Order</h3>
-      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="http://localhost/AIDelivery/createorder.php" class="btn btn-primary">Create</a>
+      <h1 class="card-title">Create an Order</h1>
+      <p class="card-text">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.</p>
+      <a href="http://localhost/AIDelivery/createorder.php" class="btn btn-primary btn-block">Create</a>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-md-6">
     <div class="card card-block">
-      <h3 class="card-title">View Groups</h3>
-      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="http://localhost/AIDelivery/viewgroups.php" class="btn btn-primary">View</a>
+      <h1 class="card-title">View Groups</h1>
+      <p class="card-text">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.</p>
+      <a href="http://localhost/AIDelivery/viewgroups.php" class="btn btn-primary  btn-block">View</a>
     </div>
   </div>
 </div>
