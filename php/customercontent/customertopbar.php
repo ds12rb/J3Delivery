@@ -8,6 +8,11 @@
         </a>
       </div>
           <ul class="nav navbar-nav navbar-right">
+<li>
+  <span class="glyphicon glyphicon-shopping-cart"> Shopping Cart</span>
+
+</li>
+
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
             <span class="glyphicon glyphicon-user"></span>

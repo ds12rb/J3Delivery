@@ -1,11 +1,13 @@
 <!-- php include head for debugging -->
-<div id="topbar" class="topbar container-fluid">
-  <nav class="navbar ">
-    <div class="row">
+<div id="topbar" class="topbar">
+  <nav class="navbar navbar-default ">
+    <div class="container-fluid">
+      <div class="navbar-header">
         <a class="navbar-brand" href="#">
           <span class="glyphicon glyphicon-road"></span> J3 Delivery
         </a>
-        <ul class="nav navbar-nav navbar-right">
+      </div>
+          <ul class="nav navbar-nav navbar-right">
           <form class="navbar-form " role="navigation">
             <div class="form-group">
               <input type="text" class="form-control" placeholder="Username">
