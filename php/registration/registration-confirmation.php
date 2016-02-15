@@ -10,7 +10,7 @@
     <div id="resend-block">
      <p>If you did not receive your confirmation email please click the 'Resend confirmation email' button below.
      <br>Make sure to check your spam folder.</p><br>
-     <form action="/AIDelivery/index.php" method="GET">
+     <form action="/J3Foods/index.php" method="GET">
        <input type="submit" class="g-sq-btn" name="resend" id="resend" value="OK" />
      </form>
     </div>

@@ -1,5 +1,5 @@
 <?php
-$root = "/AIDelivery";
+$root = "/J3Foods";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -7,7 +7,15 @@ $root = "/AIDelivery";
               <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
               <meta name='viewport' content='width=device-width, initial-scale=1.0, shrink-to-fit=no'/>
               <meta http-equiv='x-ua-compatible' content='ie=edge'/>
-              <title>J3 Foods - Online Food Ordering</title>
+<!--Title
+Define the title for each page by creating a pageTitle variable before each inclusion of head.php
+that value is echoed here
+-->
+              <title>
+                <?php
+                echo $pageTitle;
+                ?>
+              </title>
 <!-- CSS -->
               <link rel='stylesheet' type='text/css' href='<?php echo $root; ?>/css/reset.css' />
               <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css'/>

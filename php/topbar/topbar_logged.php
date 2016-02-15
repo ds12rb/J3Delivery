@@ -17,7 +17,7 @@
               <li role="separator" class="divider"></li>
               <li><a href="#">Edit Profile</a></li>
               <li role="separator" class="divider"></li>
-              <li><a href="http://localhost/AIDelivery/index.php#">Logout</a></li>
+              <li><a href="http://localhost/J3Foods/index.php#">Logout</a></li>
             </ul>
           </li>
         </ul>

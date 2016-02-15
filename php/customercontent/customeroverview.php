@@ -170,13 +170,13 @@
   <div class="col-md-6">
     <div class="card card-block text-center">
       <h1 class="card-title">Make an Order</h1>
-      <a href="http://localhost/AIDelivery/createorder.php" class="btn btn-primary btn-lg ">Create</a>
+      <a href="http://localhost/J3Foods/createorder.php" class="btn btn-primary btn-lg ">Create</a>
     </div>
   </div>
   <div class="col-md-6">
     <div class="card card-block text-center">
       <h1 class="card-title">View Restaurants</h1>
-      <a href="http://localhost/AIDelivery/viewgroups.php" class="btn btn-primary   btn-lg">View</a>
+      <a href="http://localhost/J3Foods/viewgroups.php" class="btn btn-primary   btn-lg">View</a>
     </div>
   </div>
 </div>

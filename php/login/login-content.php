@@ -12,7 +12,7 @@
                   <input type="password" class="form-control" name="password" id="password" placeholder="Password"/>
                 </div>
                 <div id="forgotpass"><a href='#'>Forgot Password?</a> </span>
-                <div id="loginsign-up">New to AIDelivery?<a href='#'>Sign up</a> </span>
+                <div id="loginsign-up">New to J3Foods?<a href='#'>Sign up</a> </span>
 
 
         </div>

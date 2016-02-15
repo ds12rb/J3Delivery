@@ -74,14 +74,14 @@
     <div class="card card-block">
       <h1 class="card-title">Create an Order</h1>
       <p class="card-text">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.</p>
-      <a href="http://localhost/AIDelivery/createorder.php" class="btn btn-primary btn-block">Create</a>
+      <a href="http://localhost/J3Foods/createorder.php" class="btn btn-primary btn-block">Create</a>
     </div>
   </div>
   <div class="col-md-6">
     <div class="card card-block">
       <h1 class="card-title">View Groups</h1>
       <p class="card-text">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.</p>
-      <a href="http://localhost/AIDelivery/viewgroups.php" class="btn btn-primary  btn-block">View</a>
+      <a href="http://localhost/J3Foods/viewgroups.php" class="btn btn-primary  btn-block">View</a>
     </div>
   </div>
 </div>
