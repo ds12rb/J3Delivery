@@ -3,7 +3,7 @@
   <nav class="navbar navbar-default ">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../../index.php">
           <span class="glyphicon glyphicon-road"></span> J3 Delivery
         </a>
       </div>

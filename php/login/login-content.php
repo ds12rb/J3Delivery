@@ -1,14 +1,19 @@
 <?php
-$welcomeheading="";
+
+$welcomeheading=null;
+$debuggingloginlink=null;
+
 if($user=="customer"){
   $welcomeheading="Customer Login";
+  $debuggingloginlink="../../php/customercontent/customeroverview.php";
 }
 if($user=="restaurant"){
   $welcomeheading="Restaurant Login";
-
+  $debuggingloginlink="../../php/restaurantcontent/restaurantoverview.php";
 }
 if($user=="default"){ //TODO: double check that this is a valid case
   $welcomeheading="";
+
 }
 ?>
 
@@ -38,8 +43,16 @@ if($user=="default"){ //TODO: double check that this is a valid case
         </div>
           <div class="sign-up ">
           </div>
-     <button class="login-btn btn btn-lg btn-primary  center-block btn-block" />Log In</button>
-          </form>
+      <a    <?php
+            if (isset($debuggingloginlink)) {
+            echo "href='".$debuggingloginlink."'";
+            }
+            //adding an attribute
+            ?> >
+        <button class="login-btn btn btn-lg btn-primary  center-block btn-block" />Log In</button> <!-- //:TODO a href is  only here for debugging until login starts working using php to redirect when pressing the login button to help debuggin -->
+      </a>
+
+              </form>
       </div>
   </div>
   </div><!-- container --->

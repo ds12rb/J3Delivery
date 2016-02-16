@@ -5,7 +5,6 @@ require("../../head.php"); ?>
 
 <body>
 <?php require("../../php/topbar/topbar.php"); ?>
-<?php require("../../php/topbar/landingpage_subbar.php"); ?>
 <?php
 $user=null;
 if (isset($_GET["user"])) {
