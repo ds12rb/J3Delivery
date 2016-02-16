@@ -1,5 +1,6 @@
 <?php
 $root = "/J3Foods";
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -19,7 +20,7 @@ that value is echoed here
 <!-- CSS -->
               <link rel='stylesheet' type='text/css' href='<?php echo $root; ?>/css/reset.css' />
               <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css'/>
-          <link rel="stylesheet" href="css/style.css"/>
+          <link rel="stylesheet" href="<?php echo $root; ?>/css/style.css"/>
               <link rel='stylesheet' type='text/css' href='<?php echo $root; ?>/css/bootstrap.min.css' />
 <!-- javascript -->
             <script src='<?php echo $root; ?>/js/jquery-1.12.0.min.js' type='text/javascript'></script>

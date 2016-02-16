@@ -11,13 +11,6 @@
     <li class="nav-item" id="landingsubbarlink-restaurants">
       <a class="nav-link" href="http://localhost/J3Foods/restaurants.php">Restaurants</a>
     </li>
-    <li class="nav-item" id="landingsubbarlink-login">
-      <a class="nav-link" href="../J3Foods/php/login/login.php">Log In</a>
-    </li>
-    <li class="nav-item" id="landingsubbarlink-signup">
-      <a class="nav-link" href="http://localhost/J3Foods/signup.php">SignUp</a>
-    </li>
-
     <li class="nav-item" id="landingsubbarlink-feedback">
       <a class="nav-link" href="http://localhost/J3Foods/feedback.php">Feedback</a>
     </li>
