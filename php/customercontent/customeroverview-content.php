@@ -12,95 +12,109 @@
         </div>
 
                 <div class="row">
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 text-center">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
                     </div>
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
                     </div>
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
+                    </div>
+                    <div class="col-md-3 ">
+                        <a href="#">
+                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        </a>
+                        <h5>
+                            <a href="#">Restaurant Name</a>
+                        </h5>
                     </div>
                 </div>
                 <!-- /.row -->
 
-                <!-- Projects Row -->
                 <div class="row">
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
                     </div>
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
                     </div>
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
+                    </div>
+                    <div class="col-md-3 ">
+                        <a href="#">
+                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        </a>
+                        <h5>
+                            <a href="#">Restaurant Name</a>
+                        </h5>
                     </div>
                 </div>
+                <!-- /.row -->
 
-                <!-- Projects Row -->
                 <div class="row">
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
                     </div>
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
                     </div>
-                    <div class="col-md-4 ">
+                    <div class="col-md-3 ">
                         <a href="#">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
-                        <h3>
+                        <h5>
                             <a href="#">Restaurant Name</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        </h5>
+                    </div>
+                    <div class="col-md-3 ">
+                        <a href="#">
+                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        </a>
+                        <h5>
+                            <a href="#">Restaurant Name</a>
+                        </h5>
                     </div>
                 </div>
                 <!-- /.row -->
