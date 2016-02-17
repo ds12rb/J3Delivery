@@ -29,8 +29,8 @@
 
           </tbody>
         </table>
-      </div>
-    </div><!-- End table container -->
+      </div><!-- End table container -->
+    </div>
     <div class="panel-footer text-right">
         <button  type="button" class="btn btn-lg">Order</button>
     </div>

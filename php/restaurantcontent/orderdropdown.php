@@ -1,5 +1,10 @@
+<div id="orderdropdown" class="collapse width">
 
-  <div id="menu-mains-container" class="row">
+
+
+  <div class="panel panel-default">
+  <div class="panel-body">
+
     <div class="row"> <!-- start of row -->
       <div class="col-sm-3 menu-items">
         <a href="http://www.msn.com/en-ca/">
@@ -72,5 +77,11 @@
       </div>
 
     </div> <!-- end of row -->
-  </div>
-<hr />
+
+
+
+
+
+  </div> <!-- panel body -->
+</div> <!-- panel -->
+</div><!-- main div -->

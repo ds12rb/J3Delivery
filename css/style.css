@@ -538,29 +538,29 @@ body {
   right: 2%;
 }
 
-/* line 780, ../sass/style.scss */
+/* line 779, ../sass/style.scss */
 .collapse {
   display: none;
   visibility: hidden;
 }
 
-/* line 784, ../sass/style.scss */
+/* line 783, ../sass/style.scss */
 .collapse.in {
   display: block;
   visibility: visible;
 }
 
-/* line 788, ../sass/style.scss */
+/* line 787, ../sass/style.scss */
 tr.collapse.in {
   display: table-row;
 }
 
-/* line 791, ../sass/style.scss */
+/* line 790, ../sass/style.scss */
 tbody.collapse.in {
   display: table-row-group;
 }
 
-/* line 794, ../sass/style.scss */
+/* line 793, ../sass/style.scss */
 .collapsing {
   position: relative;
   height: 0;
@@ -573,7 +573,7 @@ tbody.collapse.in {
   transition-timing-function: ease;
 }
 
-/* line 805, ../sass/style.scss */
+/* line 804, ../sass/style.scss */
 .collapsing.width {
   -webkit-transition-property: width, visibility;
   transition-property: width, visibility;
