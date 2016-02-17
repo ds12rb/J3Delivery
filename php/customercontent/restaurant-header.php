@@ -1,4 +1,4 @@
-            <section id="restaurant-header">
+<section id="restaurant-header">
             <div id="restaurant-hdrcontainer" class="container">
             <div class="row">
                         <div id="rhdr-left" class="col-sm-3">
@@ -11,8 +11,7 @@
                                                 </div>
                         </div>
                         <div id="rhdr-right" class="col-sm-3">
-
-                                                <span class="glyphicon glyphicon-shopping-cart" id="rhdr-shoppingicon"  data-toggle="tooltip" title="Click to show Shopping Cart"></span><?php //TODO: add a popover to explain what the button does clicking activates a popoutmenu  ?>
+                                  <a data-toggle="collapse" data-target="#shopping-cart"><span class="glyphicon glyphicon-shopping-cart" id="rhdr-shoppingicon"  data-toggle="tooltip" title="Click to show Shopping Cart"></span></a> <?php //TODO: add a popover to explain what the button does clicking activates a popoutmenu  ?>
                                                 <div id="rhdr-info">
                                                 <p>
                                                 <span class="glyphicon glyphicon-map-marker"></span> Tim Street

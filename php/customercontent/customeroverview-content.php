@@ -12,68 +12,32 @@
         </div>
 
                 <div class="row">
-                    <div class="col-md-3 text-center">
-                        <a href="#">
+                    <div class="col-sm-3 text-center">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>
                             <a href="#">Restaurant Name</a>
                         </h5>
                     </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>
                             <a href="#">Restaurant Name</a>
                         </h5>
                     </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>
                             <a href="#">Restaurant Name</a>
                         </h5>
                     </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
-                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                        </a>
-                        <h5>
-                            <a href="#">Restaurant Name</a>
-                        </h5>
-                    </div>
-                </div>
-                <!-- /.row -->
-
-                <div class="row">
-                    <div class="col-md-3 ">
-                        <a href="#">
-                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                        </a>
-                        <h5>
-                            <a href="#">Restaurant Name</a>
-                        </h5>
-                    </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
-                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                        </a>
-                        <h5>
-                            <a href="#">Restaurant Name</a>
-                        </h5>
-                    </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
-                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                        </a>
-                        <h5>
-                            <a href="#">Restaurant Name</a>
-                        </h5>
-                    </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>
@@ -84,32 +48,68 @@
                 <!-- /.row -->
 
                 <div class="row">
-                    <div class="col-md-3 ">
-                        <a href="#">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>
                             <a href="#">Restaurant Name</a>
                         </h5>
                     </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>
                             <a href="#">Restaurant Name</a>
                         </h5>
                     </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>
                             <a href="#">Restaurant Name</a>
                         </h5>
                     </div>
-                    <div class="col-md-3 ">
-                        <a href="#">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
+                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        </a>
+                        <h5>
+                            <a href="#">Restaurant Name</a>
+                        </h5>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class="row">
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
+                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        </a>
+                        <h5>
+                            <a href="#">Restaurant Name</a>
+                        </h5>
+                    </div>
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
+                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        </a>
+                        <h5>
+                            <a href="#">Restaurant Name</a>
+                        </h5>
+                    </div>
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
+                            <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        </a>
+                        <h5>
+                            <a href="#">Restaurant Name</a>
+                        </h5>
+                    </div>
+                    <div class="col-sm-3 ">
+                        <a href="www.cnn.com">
                             <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         </a>
                         <h5>

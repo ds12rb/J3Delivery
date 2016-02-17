@@ -82,17 +82,16 @@ a:hover {
 }
 
 section{
-padding:20px;
+padding:10px;
 
 }
 
 footer{
-  border-radius: 3px ;
+  border-radius: .25rem;
   border-color:#000 ;
   background-color:$general1-background ;
   text-align: center ;
-  padding:10px ;
-  border-top: 1px solid #CBCBCB ;
+  border-top: 1px solid #e5e5e5;
 }
 
 body{
@@ -125,7 +124,7 @@ body{
             //================================================================================
 
             //================================================================================
-            // LANDING PAGE BEGINS 
+            // LANDING PAGE BEGINS
             //================================================================================
             //-----------------------------------------------------
             // functional variables
@@ -748,3 +747,29 @@ padding-top: 30%;
 }//================================================================================
         // RESTAURANT HEADER
         //================================================================================
+
+
+        //================================================================================
+                // MENU
+                //================================================================================
+                    .menu-items{
+                   border-width:1px;
+                   border: 1px solid #e5e5e5;
+                   border-radius: .25rem;
+                   }
+                   .item-price{
+                     border-top: 1px solid;
+                     border-color:#e5e5e5;
+                     border-radius: .25rem;
+                   }
+                   .item-description{
+                     border-top: 1px solid;
+                     border-right: 1px solid;
+                     border-color:#e5e5e5;
+                     border-radius: .25rem;
+                   }
+
+
+                //================================================================================
+                        // MENU
+                        //================================================================================
