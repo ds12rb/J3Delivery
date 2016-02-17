@@ -1,4 +1,8 @@
-<div id="shopping-cart" class="collapse">
+<div id="shopping-cart" class="collapse container-fluid">
+<div class="row">
+<div class="col-sm-9">
+</div>
+<div class="col-sm-3">
   <div class="panel panel-default">
     <div class="panel-header text-center"><h1>Shopping Cart</h1></div>
     <div class="panel-body">
@@ -42,6 +46,20 @@
         <button  type="button" class="btn btn-lg">Order</button>
     </div>
   </div>
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
 
 
 
