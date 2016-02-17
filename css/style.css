@@ -529,3 +529,51 @@ body {
   border-color: #e5e5e5;
   border-radius: .25rem;
 }
+
+/* line 771, ../sass/style.scss */
+#shopping-cart {
+  float: right;
+}
+
+/* line 778, ../sass/style.scss */
+.collapse {
+  display: none;
+  visibility: hidden;
+}
+
+/* line 782, ../sass/style.scss */
+.collapse.in {
+  display: block;
+  visibility: visible;
+}
+
+/* line 786, ../sass/style.scss */
+tr.collapse.in {
+  display: table-row;
+}
+
+/* line 789, ../sass/style.scss */
+tbody.collapse.in {
+  display: table-row-group;
+}
+
+/* line 792, ../sass/style.scss */
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  -webkit-transition-property: height, visibility;
+  transition-property: height, visibility;
+  -webkit-transition-duration: 0.35s;
+  transition-duration: 0.35s;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 803, ../sass/style.scss */
+.collapsing.width {
+  -webkit-transition-property: width, visibility;
+  transition-property: width, visibility;
+  width: 0;
+  height: auto;
+}
