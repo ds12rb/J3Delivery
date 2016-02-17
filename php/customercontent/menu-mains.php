@@ -1,5 +1,6 @@
-
   <div id="menu-mains-container" class="row">
+    <h1>Mains</h1>
+
     <div class="row"> <!-- start of row -->
       <div class="col-sm-3 menu-items">
         <a href="http://www.msn.com/en-ca/">

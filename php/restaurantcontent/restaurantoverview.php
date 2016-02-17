@@ -9,6 +9,7 @@
 <script>
 $(function() {
   $("#subbarlink-home").addClass("active");
+  $('[data-toggle="tooltip"]').tooltip();
 
 });
 </script>

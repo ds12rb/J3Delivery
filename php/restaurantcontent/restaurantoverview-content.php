@@ -1,6 +1,5 @@
 <section id="restaurantoverview-section">
   <div id="restaurant-overview-container" class="container">
-
     <div class="row ">
       <div class="col-sm-12 text-center">
 
@@ -33,11 +32,9 @@
                                 <p>St. Catharines ON</p>
                                 <p>905-378-5843</p>
                               </td>
-                                  <a data-toggle="wcollapse collapse" data-target="#orderdropdown">
                                     <td  data-toggle="tooltip" title="Click to show Items of Order">
-                                      Delivery
+                                      <a data-toggle="collapse" data-target="#orderdropdown">Delivery</a>
                                     </td>
-                                  </a>
                             </tr>
 
                             <tr>
@@ -48,11 +45,9 @@
                                 <p>St. Catharines ON</p>
                                 <p>905-378-5843</p>
                               </td>
-                              <a data-toggle="collapse" data-target="#orderdropdown">
-                                <td  data-toggle="tooltip" title="Click to show Items of Order">
-                                  Delivery
-                                </td>
-                              </a>
+                              <td  data-toggle="tooltip" title="Click to show Items of Order">
+                                <a data-toggle="collapse" data-target="#orderdropdown">Delivery</a>
+                              </td>
                             </tr>
 
                             <tr>
@@ -63,11 +58,9 @@
                                 <p>St. Catharines ON</p>
                                 <p>905-378-5843</p>
                               </td>
-                              <a data-toggle="collapse" data-target="#orderdropdown">
-                                <td  data-toggle="tooltip" title="Click to show Items of Order">
-                                  Delivery
-                                </td>
-                              </a>
+                              <td  data-toggle="tooltip" title="Click to show Items of Order">
+                                <a data-toggle="collapse" data-target="#orderdropdown">Delivery</a>
+                              </td>
                             </tr>
 
                           </tbody>
