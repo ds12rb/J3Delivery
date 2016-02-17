@@ -1,7 +1,6 @@
 
 <?php require("head.php"); ?>
 <?php require("/php/topbar/topbar.php"); ?>
-<?php require("/php/topbar/landingpage_subbar.php"); ?>
 <section id="login-section">
   <?php require("register-content.php"); ?>
 </section>

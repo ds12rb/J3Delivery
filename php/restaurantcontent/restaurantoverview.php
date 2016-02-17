@@ -1,7 +1,6 @@
 <?php require("head.php"); ?>
       <body>
         <?php require("/php/topbar/topbar_logged.php"); ?>
-        <?php require("/php/topbar/subbar.php"); ?>
 
 <section id="overview-section">
   <div class="overview-container">

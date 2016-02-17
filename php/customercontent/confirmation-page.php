@@ -21,7 +21,9 @@
 
 <script>
 $(function() {
-  $("#subbarlink-home").addClass("active");
+
+
+  
 });
 </script>
       </body>

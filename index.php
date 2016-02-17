@@ -4,8 +4,6 @@
             ?>
       <body>
             <?php require("/php/topbar/topbar.php"); ?>
-            <?php //require("/php/topbar/landingpage_subbar.php"); //TODO: subnav  
-            ?>
             <?php require("/landingpage-content.php"); ?>
       </body>
             <?php require("php/footer/footer.php"); ?>

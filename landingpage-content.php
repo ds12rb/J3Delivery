@@ -1,8 +1,6 @@
 <div class="container" id="landingpage-container">
   <div class="row">
         <div class="col-md-12 text-center" id="lpgreet">
-
-
           <div class="row">
             <div class="col-sm-6">
               <a href="http://localhost/J3Foods/php/login/login.php?user=customer"> <button type="button" class="button btn-lg" id="landinglogin-cus" >Customer</button> </a>
@@ -48,7 +46,7 @@
 </div>
 <script>
 $(function() {
-  $("#landingsubbarlink-home").addClass("active");
+
 
 });
 </script>

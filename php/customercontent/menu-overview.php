@@ -1,11 +1,12 @@
 <?php require("../../head.php"); ?>
       <body>
         <?php require("../../php/customercontent/customertopbar.php"); ?>
-        <?php require("../../php/customercontent/customersubbar.php"); ?>
         <?php require("../../php/customercontent/menu-overview-content.php"); ?>
 <script>
 $(function() {
-  $("#subbarlink-home").addClass("active");
+
+
+
 });
 </script>
       </body>
