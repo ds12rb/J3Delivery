@@ -120,8 +120,8 @@ body{
             //-----------------------------------------------------
             // functional variables
             //-----------------------------------------------------
-                      $land1-button:$terracotta;
-                      $land1-buttonshadow:$terracotta;
+                      $land1-button:$toryblue;
+                      $land1-buttonshadow:$night;
                       $login1-background:$white;
                       $login1-hover:$neptune;
                       $login1-links:$neptune;
@@ -256,7 +256,7 @@ body{
 
 
               .button:hover {
-              	background-color:$goldenthizz;
+              	background-color:$neptune;
               }s
               .button:active {
               	position:relative;
@@ -708,9 +708,10 @@ padding:35px;
 //================================================================================
 // RESTAURANT HEADER
 //================================================================================
+
 #restaurant-hdrcontainer{
     background-image: url("../images/placeholder.jpg");
-
+}
 
   #rhdr-shoppingicon{
     font-size: 40px;
@@ -735,7 +736,7 @@ padding-top: 30%;
 }
 
 
-}//================================================================================
+//================================================================================
         // RESTAURANT HEADER
         //================================================================================
 
@@ -774,14 +775,11 @@ right:2%;
 }
 
 //--horizontal collapse for shopping cart
-.collapse {
-  display: none;
-  visibility: hidden;
-}
 .collapse.in {
   display: block;
   visibility: visible;
 }
+
 tr.collapse.in {
   display: table-row;
 }
@@ -809,8 +807,8 @@ tbody.collapse.in {
 
 
                 //================================================================================
-                        // MENU
-                        //================================================================================
+                // MENU
+                //================================================================================
 
 //--  making the restaurant menu orderdrop down clickable
                         td a {
@@ -818,3 +816,4 @@ tbody.collapse.in {
                             width:100% !important;
                         }
                         //--  making the restaurant menu orderdrop down clickable
+//TODO: fix the issue with this the entire cells are still not clickalble

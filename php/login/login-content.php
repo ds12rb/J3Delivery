@@ -49,7 +49,7 @@ if($user=="default"){ //TODO: double check that this is a valid case
             }
             //adding an attribute
             ?> >
-        <button class="login-btn btn btn-lg btn-primary  center-block btn-block" />Log In</button> <!-- //:TODO a href is  only here for debugging until login starts working using php to redirect when pressing the login button to help debuggin -->
+        <div class="login-btn btn btn-lg btn-primary  center-block btn-block" />Log In</div> <!-- //:TODO a href is  only here for debugging until login starts working using php to redirect when pressing the login button to help debuggin -->
       </a>
 
               </form>

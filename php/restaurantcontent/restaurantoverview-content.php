@@ -32,9 +32,13 @@
                                 <p>St. Catharines ON</p>
                                 <p>905-378-5843</p>
                               </td>
-                                    <td  data-toggle="tooltip" title="Click to show Items of Order">
-                                      <a data-toggle="collapse" data-target="#orderdropdown">Delivery</a>
+
+                                    <td  data-toggle="collapse" data-target="#orderdropdown">
+                                    <div data-toggle="tooltip" title="Click to show Items of Order"  >
+                                        Delivery
+                                      </div>
                                     </td>
+
                             </tr>
 
                             <tr>
@@ -45,8 +49,10 @@
                                 <p>St. Catharines ON</p>
                                 <p>905-378-5843</p>
                               </td>
-                              <td  data-toggle="tooltip" title="Click to show Items of Order">
-                                <a data-toggle="collapse" data-target="#orderdropdown">Delivery</a>
+                              <td  data-toggle="collapse" data-target="#orderdropdown">
+                                  <div data-toggle="tooltip" title="Click to show Items of Order"  >
+                                  Delivery
+                                  </div>
                               </td>
                             </tr>
 
@@ -58,8 +64,10 @@
                                 <p>St. Catharines ON</p>
                                 <p>905-378-5843</p>
                               </td>
-                              <td  data-toggle="tooltip" title="Click to show Items of Order">
-                                <a data-toggle="collapse" data-target="#orderdropdown">Delivery</a>
+                              <td  data-toggle="collapse" data-target="#orderdropdown">
+                                  <div data-toggle="tooltip" title="Click to show Items of Order"  >
+                                  Delivery
+                                  </div>
                               </td>
                             </tr>
 

@@ -20,13 +20,21 @@ that value is echoed here
               </title>
 
 <!-- CSS -->
-              <link rel='stylesheet' type='text/css' href='<?php echo $root; ?>/css/reset.css' />
-              <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css'/>
-              <link rel="stylesheet" href="<?php echo $root; ?>/css/style.css"/>
+              <link rel='stylesheet' type='text/css' href="<?php echo $root; ?>/css/reset.css" />
+              <link rel="stylesheet" type='text/css' href="<?php echo $root; ?>/css/jquery-ui.min.css">
+              <link rel="stylesheet" type='text/css' href="<?php echo $root; ?>/css/jquery-ui.structure.min.css">
+              <link rel="stylesheet" type='text/css' href="<?php echo $root; ?>/css/jquery-ui.theme.min.css">
+              <link rel="stylesheet" type='text/css' href="<?php echo $root; ?>/css/bootstrap.min.css">
+              <link rel="stylesheet" type='text/css' href="<?php echo $root; ?>/css/bootstrap-theme.min.css">
+              <link rel="stylesheet" type='text/css' href="<?php echo $root; ?>/css/font-awesome.min.css">
+              <link rel="stylesheet" type='text/css' href="<?php echo $root; ?>/css/style.css"/>
 <!-- javascript -->
-            <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-            <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+            <script src="<?php echo $root; ?>/js/jquery-1.12.0.min.js"></script>
+            <script src="<?php echo $root; ?>/js/jquery-ui.min.js"></script>
+            <script src="<?php echo $root; ?>/js/bootstrap.min.js"></script>
+            <script src="<?php echo $root; ?>/js/highcharts.js"></script>
+            <script src="<?php echo $root; ?>/js/jqueryhighchartTable-min.js"></script>
 
+            <script src="https://code.highcharts.com"></script>
 
       </head>

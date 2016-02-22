@@ -8,7 +8,7 @@
 <?php require("../../php/footer/footer.php"); ?>
 <script>
 $(function() {
-  $("#subbarlink-home").addClass("active");
+  $("#restaurantnavlink-orders").addClass("active");
   $('[data-toggle="tooltip"]').tooltip();
 
 });

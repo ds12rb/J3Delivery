@@ -32,7 +32,7 @@
       </div><!-- End table container -->
     </div>
     <div class="panel-footer text-right">
-        <button  type="button" class="btn btn-lg">Order</button>
+    <a href="../../php/customercontent/confirmation-page.php"><button  type="button" class="btn btn-lg">Order</button></a>    
     </div>
   </div>
 

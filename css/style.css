@@ -156,7 +156,7 @@ body {
 }
 /* line 238, ../sass/style.scss */
 #landingpage-container .button {
-  background-color: #D24136;
+  background-color: #1253A4;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -167,11 +167,11 @@ body {
   font-size: 17px;
   padding: 9px 29px;
   text-decoration: none;
-  text-shadow: 0px 1px 0px #D24136;
+  text-shadow: 0px 1px 0px #000B29;
 }
 /* line 258, ../sass/style.scss */
 #landingpage-container .button:hover {
-  background-color: #EBFF33;
+  background-color: #78C3AE;
 }
 /* line 260, ../sass/style.scss */
 #landingpage-container s
@@ -482,47 +482,52 @@ body {
   max-height: 200px;
 }
 
-/* line 711, ../sass/style.scss */
+/* line 712, ../sass/style.scss */
 #restaurant-hdrcontainer {
   background-image: url("../images/placeholder.jpg");
 }
-/* line 715, ../sass/style.scss */
-#restaurant-hdrcontainer #rhdr-shoppingicon {
+
+/* line 716, ../sass/style.scss */
+#rhdr-shoppingicon {
   font-size: 40px;
   float: right;
 }
-/* line 720, ../sass/style.scss */
-#restaurant-hdrcontainer #avgrating {
-  padding-top: 30%;
-}
-/* line 725, ../sass/style.scss */
-#restaurant-hdrcontainer #avgrating-star {
-  font-size: 30px;
-}
-/* line 729, ../sass/style.scss */
-#restaurant-hdrcontainer #avgrating-emptystar {
-  font-size: 30px;
-}
-/* line 733, ../sass/style.scss */
-#restaurant-hdrcontainer #rhdr-info {
+
+/* line 721, ../sass/style.scss */
+#avgrating {
   padding-top: 30%;
 }
 
-/* line 746, ../sass/style.scss */
+/* line 726, ../sass/style.scss */
+#avgrating-star {
+  font-size: 30px;
+}
+
+/* line 730, ../sass/style.scss */
+#avgrating-emptystar {
+  font-size: 30px;
+}
+
+/* line 734, ../sass/style.scss */
+#rhdr-info {
+  padding-top: 30%;
+}
+
+/* line 747, ../sass/style.scss */
 .menu-items {
   border-width: 1px;
   border: 1px solid #e5e5e5;
   border-radius: .25rem;
 }
 
-/* line 751, ../sass/style.scss */
+/* line 752, ../sass/style.scss */
 .item-price {
   border-top: 1px solid;
   border-color: #e5e5e5;
   border-radius: .25rem;
 }
 
-/* line 756, ../sass/style.scss */
+/* line 757, ../sass/style.scss */
 .item-description {
   border-top: 1px solid;
   border-right: 1px solid;
@@ -530,7 +535,7 @@ body {
   border-radius: .25rem;
 }
 
-/* line 762, ../sass/style.scss */
+/* line 763, ../sass/style.scss */
 #shopping-cart {
   float: right;
   position: fixed;
@@ -538,7 +543,7 @@ body {
   right: 2%;
 }
 
-/* line 769, ../sass/style.scss */
+/* line 770, ../sass/style.scss */
 #orderdropdown {
   float: right;
   position: fixed;
@@ -546,29 +551,23 @@ body {
   right: 2%;
 }
 
-/* line 777, ../sass/style.scss */
-.collapse {
-  display: none;
-  visibility: hidden;
-}
-
-/* line 781, ../sass/style.scss */
+/* line 778, ../sass/style.scss */
 .collapse.in {
   display: block;
   visibility: visible;
 }
 
-/* line 785, ../sass/style.scss */
+/* line 783, ../sass/style.scss */
 tr.collapse.in {
   display: table-row;
 }
 
-/* line 788, ../sass/style.scss */
+/* line 786, ../sass/style.scss */
 tbody.collapse.in {
   display: table-row-group;
 }
 
-/* line 791, ../sass/style.scss */
+/* line 789, ../sass/style.scss */
 .collapsing {
   position: relative;
   height: 0;
@@ -581,7 +580,7 @@ tbody.collapse.in {
   transition-timing-function: ease;
 }
 
-/* line 802, ../sass/style.scss */
+/* line 800, ../sass/style.scss */
 .collapsing.width {
   -webkit-transition-property: width, visibility;
   transition-property: width, visibility;
@@ -589,7 +588,7 @@ tbody.collapse.in {
   height: auto;
 }
 
-/* line 816, ../sass/style.scss */
+/* line 814, ../sass/style.scss */
 td a {
   display: block !important;
   width: 100% !important;
