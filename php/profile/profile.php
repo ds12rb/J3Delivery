@@ -4,6 +4,8 @@
   <?php require("profile-content.php"); ?>
   <script>
   $(function() {
+
+    
   });
   </script>
 </body>

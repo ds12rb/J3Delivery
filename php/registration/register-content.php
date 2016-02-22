@@ -1,15 +1,11 @@
 <section id="registration-section">
 
-
-
-
-
 <div class="container-fluid">
   <h1>Sign Up for Free</h1>
 
 <div id='registration-block'>
 <form id="signup-form" action="" accept-charset="utf-8" method="POST" >
-  <div class="input-form">
+  <div class="input-form row">
 
     <div class="input-row" id="register-idinfo">
         <h3>Identification Details</h3>

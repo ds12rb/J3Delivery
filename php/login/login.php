@@ -20,7 +20,8 @@ else{
 require("login-content.php"); ?>
 
 <script>$(function() {
-  $("#landingsubbarlink-login").addClass("active");
+
+
 });</script>
 </body>
 <?php require("../../php/footer/footer.php"); ?>
