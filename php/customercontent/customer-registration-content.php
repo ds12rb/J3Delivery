@@ -34,35 +34,40 @@
 
 
 
-
                     <div id="initial-addressop" class="input-row">
-                        <div class="row">
-                            <div class="col-sm-4">
-                                <input type="text" name="streetaddress" id="streetaddress"  class="input-fieldformat form-control" placeholder="Street Address"/>
+
+
+                        <div class="btn btn-default" data-toggle="collapse" data-target="#inaddressinfo">Do You Want to Provide an Initial Address?</div>
+
+                        <div id="inaddressinfo" class="collapse input-row">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <input type="text" name="streetaddress" id="streetaddress"  class="input-fieldformat form-control" placeholder="Street Address"/>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <input type="text" name="province" id="province" class="input-fieldformat form-control" placeholder="State/Province"/>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <input type="text" name="country" id="country"  class="input-fieldformat form-control" placeholder="Country"/>
+                                </div>
                             </div>
 
-                            <div class="col-sm-4">
-                                <input type="text" name="province" id="province" class="input-fieldformat form-control" placeholder="State/Province"/>
-                            </div>
+                            <div class="input-row row">
+                                <div class="col-sm-4">
+                                    <input type="text" name="city" id="city"  class="input-fieldformat form-control" placeholder="City"/>
+                                </div>
 
-                            <div class="col-sm-4">
-                                <input type="text" name="country" id="country"  class="input-fieldformat form-control" placeholder="Country"/>
+                                <div class="col-sm-4">
+                                    <input type="text" name="zipcode" id="zipcode"  class="input-fieldformat form-control" placeholder="Postal/ZipCode"/>
+                                </div>
                             </div>
                         </div>
-
-                        <div class="input-row row">
-                            <div class="col-sm-4">
-                                <input type="text" name="city" id="city"  class="input-fieldformat form-control" placeholder="City"/>
-                            </div>
-
-                            <div class="col-sm-4">
-                                <input type="text" name="zipcode" id="zipcode"  class="input-fieldformat form-control" placeholder="Postal/ZipCode"/>
-                            </div>
-                        </div>
-
-
 
                     </div>
+
+
                 </div><!-- panel body container -->
 
 
