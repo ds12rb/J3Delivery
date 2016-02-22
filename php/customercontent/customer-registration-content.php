@@ -2,7 +2,7 @@
 
 
 <div class="container-fluid text-center" id="customer-registration-container">
-    <div class="row " id='registration-block'>
+    <div class="row " id='customer-registration-block'>
           <div class="col-md-5 panel panel-default col-centered " id="login-panel">
             <div class="panel-header text-center">  <h1>Customer Sign Up</h1></div>
 
@@ -29,13 +29,7 @@
                     </div>
                 </div>
 
-
-
-
-
-
                     <div id="initial-addressop" class="input-row">
-
 
                         <div class="btn btn-default" data-toggle="collapse" data-target="#inaddressinfo">Do You Want to Provide an Initial Address?</div>
 
@@ -64,10 +58,7 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
-
-
                 </div><!-- panel body container -->
 
 
