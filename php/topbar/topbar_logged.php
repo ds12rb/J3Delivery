@@ -1,6 +1,6 @@
 <!-- php include head for debugging -->
 <div id="topbar-logged" class="topbar">
-  <nav class="navbar  topbar-loggednav navbar-default  ">
+  <nav class="navbar  topbar-loggednav navbar-default   ">
     <div class="container-fluid">
       <div class="navbar-header">
         <a class="navbar-brand" href="#">
