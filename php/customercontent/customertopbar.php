@@ -36,9 +36,9 @@
             </a>
             <ul class="dropdown-menu">
               <li><a href="#">Chicken</a></li>
-              <li role="separator" class="divider"></li>
+              <li class="separator"> </li>
               <li><a href="#">Pizza</a></li>
-              <li role="separator" class="divider"></li>
+              <li class="separator"> </li>
               <li><a href="#">Pasta</a></li>
             </ul>
           </li>
@@ -53,9 +53,9 @@
             <span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="#">Welcome</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Edit Profile</a></li>
-              <li role="separator" class="divider"></li>
+              <li><a href="../../php/customercontent/customer-profile.php">Edit Profile</a></li>
+              <li><a href="../../php/customercontent/customer-profile.php">Help</a></li>
+              <li class="separator"> </li>
               <li><a href="http://localhost/J3Foods/index.php#">Logout</a></li>
             </ul>
           </li>
