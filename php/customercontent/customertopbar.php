@@ -53,8 +53,8 @@
             <span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="#">Welcome</a></li>
-              <li><a href="../../php/customercontent/customer-profile.php">Edit Profile</a></li>
-              <li><a href="../../php/customercontent/customer-profile.php">Help</a></li>
+              <li><a href="../../php/customercontent/customer-profile-editprofile.php">Edit Profile</a></li>
+              <li><a href="#">Help</a></li>
               <li class="separator"> </li>
               <li><a href="http://localhost/J3Foods/index.php#">Logout</a></li>
             </ul>

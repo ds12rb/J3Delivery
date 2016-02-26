@@ -8,7 +8,6 @@ $root = "/J3Foods";
               <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
               <meta name='viewport' content='width=device-width, initial-scale=1.0, shrink-to-fit=no'/>
               <meta http-equiv='x-ua-compatible' content='ie=edge'/>
-
 <!--Title
 Define the title for each page by creating a pageTitle variable before each inclusion of head.php
 that value is echoed here
@@ -34,7 +33,6 @@ that value is echoed here
             <script src="<?php echo $root; ?>/js/bootstrap.min.js"></script>
             <script src="<?php echo $root; ?>/js/highcharts.js"></script>
             <script src="<?php echo $root; ?>/js/jqueryhighchartTable-min.js"></script>
-
             <script src="https://code.highcharts.com"></script>
 
       </head>
