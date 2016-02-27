@@ -15,54 +15,44 @@
               <form action="/" method="POST" role="form">
                   <div class="form-group">
 
-                      <div class="input-row row">
-                      <label class="sr-only" for="email">Email:</label>
-                      <input type="text" class="form-control" name="email" id="email" placeholder="Email"/>
-                          </div>
 
-                      <div class="input-row row">
-                      <label class="sr-only" for="firstname">Firstname:</label>
-                      <input type="text" class="form-control" name="firstname" id="firstname" placeholder="First Name"/>
-                      </div>
-
-                      <div class="input-row row">
-                      <label class="sr-only" for="lastname">Last Name:</label>
-                      <input type="text" class="form-control" name="lastname" id="lastname" placeholder="Last Name"/>
-                          </div>
-
-                          <div class="input-row row">
-                          <label class="sr-only" for="phonenumber">Phone Number:</label>
-                          <input type="text" class="form-control" name="phoneno" id="phoneno" placeholder="Phone Number"/>
-                              </div>
+                        <!-- List group -->
+                         <ul class="list-group">
+                           <li class="list-group-item">
+                                 Duncan Street         <button type="button" class="close" data-dismiss="modal">&times;
+<div class="row">
+      <div class="row">
 
 
 
-                      <div class="input-row row">
-                          <div class="btn btn-default" data-toggle="collapse" data-target="#changepassword">Change Password?</div>
-                          <div id="changepassword" class="collapse input-row">
-                              <div class="row">
-                                  <div class="col-sm-4">
-                                      <label class="sr-only" for="password">Password:</label>
-                                      <input type="password" class="form-control" name="password" id="password" placeholder="Password"/>
-                                  </div>
 
-                                  <div class="col-sm-4">
-                                      <label class="sr-only" for="password">Password:</label>
-                                      <input type="password" class="form-control" name="password" id="password" placeholder="Password"/>
-                                  </div>
+      </div>
+      <div class="row">
 
-                              </div>
-                          </div>
-                      </div>
+
+
+
+      </div>
+
+
+
+</div>
+
+
+                                 </button></li>
+                           <li class="list-group-item">Tim Street         <button type="button" class="close" data-dismiss="modal">&times;</button></li>
+                           <li class="list-group-item">Morbi leo risus         <button type="button" class="close" data-dismiss="modal">&times;</button></li>
+                           <li class="list-group-item">Porta ac consectetur ac         <button type="button" class="close" data-dismiss="modal">&times;</button></li>
+                           <li class="list-group-item">Vestibulum at eros         <button type="button" class="close" data-dismiss="modal">&times;</button></li>
+                         </ul>
 
 
                   </div>
 
 
-              <div class="login-btn btn btn-lg btn-primary  center-block btn-block" />Save Changes</div>
+              <div class="btn  btn-primary  " /><span class="glyphicon glyphicon-plus"></span>New Address</div>
 
                   </form>
-
               </div>
           </div>
           </div><!-- container --->
@@ -72,7 +62,7 @@
 <script>
 $(function() {
 
-$("#landingsubbarlink-restaurants").addClass("active");
+$("#cpcontent-addresses").addClass("active");
 
 
 

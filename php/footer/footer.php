@@ -1,5 +1,5 @@
 <footer >
-  <div class="container-fluid">
+  <div class="container-fluid" id="footer">
     <div class="row">
      <div class="f-content">
     <div class="f-copy">Copyright &copy; 2016 - <?php echo date("Y"); ?> <a href="http://www.j3foods.com">j3foods.com</a></div>

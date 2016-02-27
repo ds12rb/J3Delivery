@@ -1,7 +1,7 @@
 <?php require("../../head.php"); ?>
       <body>
         <?php require("../../php/customercontent/customertopbar.php"); ?>
-        
+
         <section id="profile-section">
           <div class="container text-center" id="profile-container" >
             <div class="row row-centered">
@@ -72,7 +72,7 @@
 <script>
 $(function() {
 
-$("#landingsubbarlink-restaurants").addClass("active");
+$("#cpcontent-profile").addClass("active");
 
 
 

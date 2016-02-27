@@ -13,6 +13,9 @@
 
 }
 
+body { padding-top: 70px; } //needed for affixed navbars
+
+
         //================================================================================
         // BOOTSTRAP OVERRIDES ENDS
         //================================================================================
@@ -117,10 +120,47 @@ body{
       transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
 }
 
+
 .input-row{
   margin-top:10px;
 
 }
+
+//sticky footer code
+html{
+  // Sticky Footer -->
+ position: relative;
+ min-height: 100%;
+ // Sticky Footer --
+
+}
+
+
+footer{
+  border-radius: .25rem;
+  border-color:#000 ;
+  background-color:$general1-background ;
+  text-align: center ;
+  border-top: 1px solid #e5e5e5;
+
+// Sticky Footer -->
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  // Sticky Footer -
+}
+
+body{
+  background-color: $general1-background!important;
+  // Sticky Footer -->
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  // Sticky Footer --
+
+}
+
         //================================================================================
         // GENERAL ELEMENTS ENDS
         //================================================================================

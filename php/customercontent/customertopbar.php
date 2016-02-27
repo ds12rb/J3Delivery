@@ -1,6 +1,6 @@
 <div id="topbar-logged" class="topbar">
 
-  <nav class="navbar  topbar-loggednav navbar-default   ">
+  <nav class="navbar  topbar-loggednav navbar-default  navbar-fixed-top ">
     <div class="container-fluid">
       <div class="navbar-header">
                       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="navbar-collapse-1" aria-expanded="false">
@@ -36,9 +36,7 @@
             </a>
             <ul class="dropdown-menu">
               <li><a href="#">Chicken</a></li>
-              <li class="separator"> </li>
               <li><a href="#">Pizza</a></li>
-              <li class="separator"> </li>
               <li><a href="#">Pasta</a></li>
             </ul>
           </li>

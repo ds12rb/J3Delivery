@@ -1,6 +1,6 @@
 <!-- php include head for debugging -->
 <div id="topbar-logged" class="topbar">
-  <nav class="navbar  topbar-loggednav navbar-default   ">
+  <nav class="navbar  topbar-loggednav navbar-default navbar-fixed-top">
     <div class="container-fluid">
       <div class="navbar-header">
         <a class="navbar-brand" href="#">
@@ -14,9 +14,8 @@
             <span class="glyphicon glyphicon-menu-down"></span>
             <ul class="dropdown-menu">
               <li><a href="#">Welcome</a></li>
-              <li role="separator" class="divider"></li>
               <li><a href="#">Edit Profile</a></li>
-              <li role="separator" class="divider"></li>
+              <li class="separator"> </li>
               <li><a href="http://localhost/J3Foods/index.php#">Logout</a></li>
             </ul>
           </li>

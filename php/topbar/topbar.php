@@ -1,6 +1,6 @@
 <!-- php include head for debugging -->
 <div id="topbar" class="topbar">
-  <nav class="navbar navbar-default  ">
+  <nav class="navbar navbar-default navbar-fixed-top ">
     <div class="container-fluid">
       <div class="navbar-header">
         <a class="navbar-brand" href="../../index.php">

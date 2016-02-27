@@ -72,7 +72,7 @@
 <script>
 $(function() {
 
-$("#landingsubbarlink-restaurants").addClass("active");
+      $("#cpcontent-history").addClass("active");
 
 
 
