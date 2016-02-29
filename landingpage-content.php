@@ -1,4 +1,4 @@
-<div class="container" id="landingpage-container">
+<div class="container-fluid" id="landingpage-container">
   <div class="row">
         <div class="col-md-12 text-center" id="lpgreet">
           <div class="row">
