@@ -1,7 +1,7 @@
             <?php
             $pageTitle="J3 Foods - Online Food Ordering";
-             require("head.php"); //TODO: everytime we include head.php we have to set a pageTitle
-            ?>            
+             require("head.php"); //TODO: everytime we include head.php we have to set a pageTitle test commit
+            ?>
       <body>
             <?php require("/php/topbar/topbar.php"); ?>
             <?php require("/landingpage-content.php"); ?>
